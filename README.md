@@ -2,7 +2,7 @@
 
 ### Comandos
 ```
-pytest -v test_files.py
+pytest -v app/test_files.py
 ou
 pytest
 ou
